@@ -1,8 +1,8 @@
-## BasicProject
+## Interafaces and Classes Project 
 
-### March 25, 2016
+### April 6th, 2016
 
-My third version controlled project
+A project that uses Interfaface and classes 
 
 * git 
 * Java 7
